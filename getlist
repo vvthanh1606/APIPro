@@ -1,0 +1,37 @@
+[
+  {
+    "cartID": 1,
+    "Name": "Tra sua dau",
+    "Image": "image_dau.jpg",
+    "Price": "50.000VND",
+    "type": "Tra sua"
+  },
+  {
+    "cartID": 2,
+    "Name": "Tra sua duong den",
+    "Image": "image_duongden.jpg",
+    "Price": "50.000VND",
+    "type": "Tra sua"
+  },
+  {
+    "cartID": 3,
+    "Name": "Tra sua chocolate",
+    "Image": "image_chocolate.jpg",
+    "Price": "50.000VND",
+    "type": "Tra sua"
+  },
+  {
+    "cartID": 4,
+    "Name": "Tra sua da",
+    "Image": "image_suada.jpg",
+    "Price": "50.000VND",
+    "type": "Tra sua"
+  },
+  {
+    "cartID": 5,
+    "Name": "Tra sua hoa qua",
+    "Image": "image_hoaqua.jpg",
+    "Price": "50.000VND",
+    "type": "Tra sua"
+  }
+]
