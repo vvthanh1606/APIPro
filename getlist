@@ -1,37 +1,37 @@
 [
   {
     "cartID": 1,
-    "Name": "Tra sua dau",
-    "Image": "image_dau.jpg",
-    "Price": "50.000VND",
-    "type": "Tra sua"
+    "Name": "Giay da banh 1",
+    "Image": "image_giay1.jpg",
+    "Price": "500.000VND",
+    "type": "The thao"
   },
   {
     "cartID": 2,
-    "Name": "Tra sua duong den",
-    "Image": "image_duongden.jpg",
-    "Price": "50.000VND",
-    "type": "Tra sua"
+    "Name": "Giay da banh 2",
+    "Image": "image_giay2.jpg",
+    "Price": "300.000VND",
+    "type": "The thao"
   },
   {
     "cartID": 3,
-    "Name": "Tra sua chocolate",
-    "Image": "image_chocolate.jpg",
-    "Price": "50.000VND",
-    "type": "Tra sua"
+    "Name": "Giay da banh 3",
+    "Image": "image_giay3.jpg",
+    "Price": "400.000VND",
+    "type": "The thao"
   },
   {
     "cartID": 4,
-    "Name": "Tra sua da",
-    "Image": "image_suada.jpg",
-    "Price": "50.000VND",
-    "type": "Tra sua"
+    "Name": "Giay da banh 4",
+    "Image": "image_giay4.jpg",
+    "Price": "550.000VND",
+    "type": "The thao"
   },
   {
     "cartID": 5,
-    "Name": "Tra sua hoa qua",
-    "Image": "image_hoaqua.jpg",
-    "Price": "50.000VND",
-    "type": "Tra sua"
+    "Name": "Giay da banh 5",
+    "Image": "image_giay5.jpg",
+    "Price": "1.000.000VND",
+    "type": "The thao"
   }
 ]
